@@ -1,7 +1,8 @@
 name: m3u8
-description: A sample command-line application.
+description: prase m3u8 content
 version: 1.0.0
-# homepage: https://www.example.com
+homepage: https://github.com/hellojukay/m3u8.dart
+repository: https://github.com/hellojukay/m3u8.dart
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
